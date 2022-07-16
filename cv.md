@@ -37,3 +37,5 @@ Kazan National Research Technological University
     ##### Native or bilingual proficiency
 * Tatar
     ##### Native or bilingual proficiency
+-------------
+**Best regards, Ayrat!**
